@@ -8,16 +8,26 @@ reverse engeneered pc110 mechanical design. in progress.....
 
 <img alt="pc110" src="/pc110/pc110.png" width="50%">
 
-## [molex52960](/molex52960)
+## [molex52960orig](/molex52960orig)
+reverse engeneered Molex 52960 (replicator side) port expansion connector.
+
+<img alt="molex52960orig" src="/molex52960orig/molex52960orig.png" width="50%">
+
+## [molex53711orig](/molex53711orig)
+reverse engeneered Molex 53711 (pc110 side) port expansion connector.
+
+<img alt="molex52960orig" src="/molex53711orig/molex53711orig.png" width="50%">
+
+## [molex52960FX6](/molex52960FX6)
 redesigned Molex 52960 (replicator side) port expansion connector.
 
 with Hirose FX6 connector.
 
-<img alt="52960" src="/molex52960/molex%2052960%20redesigned%20with%20FX6.png" width="50%">
+<img alt="molex52960FX6" src="/molex52960FX6/molex52960FX6.png" width="50%">
 
-## [molex53711](/molex53711)
+## [molex53711FX6](/molex53711FX6)
 redesigned Molex 53711 (pc110 side) port expansion connector.
 
 with Hirose FX6 connector.
 
-<img alt="53711" src="/molex53711/molex 53711 redesigned with FX6.png" width="50%">
+<img alt="molex53711FX6" src="/molex53711FX6/molex53711FX6.png" width="50%">
