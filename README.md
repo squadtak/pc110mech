@@ -31,3 +31,9 @@ redesigned Molex 53711 (pc110 side) port expansion connector.
 with Hirose FX6 connector.
 
 <img alt="molex53711FX6" src="/molex53711FX6/molex53711FX6.png" width="50%">
+
+## [hosidenTCX5108-0111177](/hosidenTCX5108-0111177)
+redesigned Hosiden TCX5108-0111177 connector.
+
+<img alt="TCX5108-0111177" src="/hosidenTCX5108-0111177/TCX5108-0111177.png" width="50%">
+
